@@ -2,15 +2,12 @@
   "name": "users",
   "version": "1.0.0",
   "description": "Starter pack for an auth-included graphql project",
-  "repository": {
-    "type": "git",
-    "url": "github.com/stephengrider"
-  },
+  "repository": "github.com/stephengrider",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js --ignore client"
   },
-  "author": "",
+  "author": "danielstallworthmit <danielstallworthmit@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "apollo-client": "^0.8.2",
